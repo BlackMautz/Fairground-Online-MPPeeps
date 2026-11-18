@@ -1,5 +1,7 @@
 # Fairground Online – MP Peeps (`FairgroundMPPeeps.dll`)
 
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/y7XMy8Jduq)
+
 Eine **BepInEx 6 (IL2CPP)** Mod für **Fairground Online**, die während der Fahrt automatisch dynamische und zufällige Besucher-Reaktionen (Hände hoch, Klatschen, Schreien) auslöst.
 
 > **Kompatibilität:** Aktualisiert für **Fairground Online v1.1.3**.
@@ -22,3 +24,9 @@ Eine **BepInEx 6 (IL2CPP)** Mod für **Fairground Online**, die während der Fah
    Fairground Online\BepInEx\plugins\FairgroundMPPeeps.dll
    ```
 3. Spiel starten – die Mod ist sofort aktiv.
+
+---
+
+## 💬 Community & Support (Discord)
+Fragen, Feedback oder weitere Fairground-Online-Mods? Komm auf unseren Discord-Server:
+👉 **[Hier dem Discord beitreten (discord.gg/y7XMy8Jduq)](https://discord.gg/y7XMy8Jduq)**
